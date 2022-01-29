@@ -1,0 +1,1201 @@
+{
+    "nhits": 34722,
+    "parameters": {
+        "dataset": "donnees-synop-essentielles-omm",
+        "rows": 10,
+        "start": 0,
+        "sort": [
+            "date"
+        ],
+        "facet": [
+            "date",
+            "nom",
+            "temps_present",
+            "libgeo",
+            "nom_epci",
+            "nom_dept",
+            "nom_reg"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "ea69982c6d7ea73fe407999cf50b6a04ddcd76a5",
+            "fields": {
+                "code_dep": "63",
+                "t": 283.85,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 3.7,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": -0.1,
+                "rr6": 0.0,
+                "tc": 10.700000000000045,
+                "tminsol": 279.95,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "nnuage3": 8.0,
+                "td": 279.55,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 190,
+                "date": "2022-01-03T18:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 75,
+                "cod_tend": "8",
+                "tend": -270.0,
+                "latitude": 45.786833,
+                "nnuage1": 7.0,
+                "tminsolc": 6.800000000000011,
+                "hbas": 4140.0,
+                "rafper": 6.3,
+                "n": 100.0,
+                "hnuage2": 4800.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 101640,
+                "code_epci": "246300701",
+                "hnuage1": 4140.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "nnuage2": 7.0,
+                "tn12c": 8.800000000000011,
+                "tx12": 288.15,
+                "rr24": -0.1,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 2.3,
+                "tend24": -1020.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "Stationnaire ou en hausse, puis en baisse, ou en baisse, puis en baisse plus rapide",
+                "nbas": "8",
+                "tn12": 281.95,
+                "hnuage3": 7140.0,
+                "pres": 97700.0,
+                "tx12c": 15.0,
+                "vv": 59740.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "fffcdaca3872e84f28b4ce2380f37a2e30b49757",
+            "fields": {
+                "code_dep": "63",
+                "t": 287.55,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 2.9,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": -0.1,
+                "rr6": -0.1,
+                "tc": 14.400000000000034,
+                "tminsol": 279.95,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "nnuage3": 7.0,
+                "td": 280.35,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 190,
+                "date": "2022-01-03T15:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 62,
+                "cod_tend": "6",
+                "tend": -250.0,
+                "latitude": 45.786833,
+                "nnuage1": 3.0,
+                "tminsolc": 6.800000000000011,
+                "hbas": 1250.0,
+                "rafper": 4.8,
+                "n": 100.0,
+                "hnuage2": 1470.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 101870,
+                "code_epci": "246300701",
+                "hnuage1": 1290.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "nnuage2": 5.0,
+                "rr24": -0.1,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 1.7,
+                "tend24": -490.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "En baisse, puis stationnaire, ou en baisse, puis en baisse plus lente",
+                "nbas": "5",
+                "hnuage3": 3180.0,
+                "pres": 97970.0,
+                "vv": 57570.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "8352332b88603d2f42574b9addd2b3eddb00bf00",
+            "fields": {
+                "code_dep": "63",
+                "t": 287.05,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 7.0,
+                "code_reg": "84",
+                "rr3": -0.1,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": -0.1,
+                "rr6": -0.1,
+                "tc": 13.900000000000034,
+                "tminsol": 279.95,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "nnuage3": 5.0,
+                "td": 281.25,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 180,
+                "date": "2022-01-03T12:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 68,
+                "cod_tend": "8",
+                "tend": -200.0,
+                "latitude": 45.786833,
+                "nnuage1": 3.0,
+                "tminsolc": 6.800000000000011,
+                "hbas": 1250.0,
+                "rafper": 9.2,
+                "n": 90.0,
+                "hnuage2": 1680.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102130,
+                "code_epci": "246300701",
+                "hnuage1": 1290.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "nnuage2": 5.0,
+                "rr24": -0.1,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 4.6,
+                "tend24": -260.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "Stationnaire ou en hausse, puis en baisse, ou en baisse, puis en baisse plus rapide",
+                "nbas": "3",
+                "hnuage3": 2040.0,
+                "pres": 98220.0,
+                "vv": 58520.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "85694d391868efcf2e889a667fb0cf2ad3b571f7",
+            "fields": {
+                "code_dep": "63",
+                "t": 283.15,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 6.0,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": 0.0,
+                "rr6": 0.0,
+                "tc": 10.0,
+                "tminsol": 279.95,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "td": 279.65,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 170,
+                "date": "2022-01-03T09:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 79,
+                "cod_tend": "6",
+                "tend": -60.0,
+                "latitude": 45.786833,
+                "nnuage1": 3.0,
+                "tminsolc": 6.800000000000011,
+                "hbas": 2580.0,
+                "rafper": 8.5,
+                "hnuage2": 3780.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102400,
+                "code_epci": "246300701",
+                "hnuage1": 2580.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "nnuage2": 4.0,
+                "rr24": 0.0,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 3.7,
+                "tend24": -20.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "En baisse, puis stationnaire, ou en baisse, puis en baisse plus lente",
+                "nbas": "4",
+                "pres": 98420.0,
+                "vv": 53600.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "bd0e27ba3d746a0b722e7cca6e49f37e6902067b",
+            "fields": {
+                "code_dep": "63",
+                "t": 283.55,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 3.2,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": 0.0,
+                "rr6": 0.0,
+                "tc": 10.400000000000034,
+                "tminsol": 279.55,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "nnuage3": 8.0,
+                "td": 279.15,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 150,
+                "date": "2022-01-03T06:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 74,
+                "cod_tend": "8",
+                "tend": -90.0,
+                "latitude": 45.786833,
+                "nnuage1": 1.0,
+                "tminsolc": 6.400000000000034,
+                "hbas": 1250.0,
+                "rafper": 6.1,
+                "n": 100.0,
+                "hnuage2": 4800.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102450,
+                "code_epci": "246300701",
+                "hnuage1": 1080.0,
+                "codegeo": "63113",
+                "etat_sol": "1",
+                "nnuage2": 6.0,
+                "tn12c": 9.400000000000034,
+                "tx12": 286.25,
+                "rr24": 0.0,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 1.8,
+                "tend24": 160.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "Stationnaire ou en hausse, puis en baisse, ou en baisse, puis en baisse plus rapide",
+                "nbas": "1",
+                "tn12": 282.55,
+                "hnuage3": 6840.0,
+                "pres": 98480.0,
+                "tx12c": 13.100000000000023,
+                "vv": 60000.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "0be8710ce8ac610b00af2992b6919743a4b124c5",
+            "fields": {
+                "code_dep": "63",
+                "t": 282.95,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 4.1,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": 0.0,
+                "rr6": 0.0,
+                "tc": 9.800000000000011,
+                "tminsol": 279.55,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "nnuage3": 7.0,
+                "td": 278.55,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 160,
+                "date": "2022-01-03T03:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 74,
+                "cod_tend": "8",
+                "tend": -60.0,
+                "latitude": 45.786833,
+                "nnuage1": 6.0,
+                "tminsolc": 6.400000000000034,
+                "hbas": 1250.0,
+                "rafper": 7.0,
+                "n": 100.0,
+                "hnuage2": 5280.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102560,
+                "code_epci": "246300701",
+                "hnuage1": 1170.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "nnuage2": 7.0,
+                "rr24": 0.0,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 2.7,
+                "tend24": 220.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "Stationnaire ou en hausse, puis en baisse, ou en baisse, puis en baisse plus rapide",
+                "nbas": "6",
+                "hnuage3": 6180.0,
+                "pres": 98570.0,
+                "vv": 60000.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "f0228ab97e6e2cec6b3aeb355c21a15309d4dbec",
+            "fields": {
+                "tminsolc": 6.400000000000034,
+                "hbas": 5820.0,
+                "rafper": 9.6,
+                "n": 100.0,
+                "code_dep": "63",
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102610,
+                "t": 283.35,
+                "code_epci": "246300701",
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 5.2,
+                "hnuage1": 5820.0,
+                "code_reg": "84",
+                "codegeo": "63113",
+                "rr3": 0.0,
+                "etat_sol": "0",
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": 0.0,
+                "rr6": 0.0,
+                "tc": 10.200000000000045,
+                "tminsol": 279.55,
+                "per": -10.0,
+                "rr24": 0.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "td": 278.35,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "longitude": 3.149333,
+                "ff": 4.1,
+                "tend24": 160.0,
+                "altitude": 331,
+                "dd": 160,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "date": "2022-01-03T00:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 71,
+                "type_de_tendance_barometrique": "Stationnaire ou en hausse, puis en baisse, ou en baisse, puis en baisse plus rapide",
+                "cod_tend": "8",
+                "nbas": "8",
+                "tend": -90.0,
+                "pres": 98630.0,
+                "latitude": 45.786833,
+                "nnuage1": 8.0,
+                "vv": 60000.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "c75dd15833bca778b8887a8bf693da1b0c2aecdd",
+            "fields": {
+                "code_dep": "63",
+                "t": 285.95,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 8.5,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": 0.0,
+                "rr6": 0.0,
+                "tc": 12.800000000000011,
+                "tminsol": 279.55,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "td": 279.35,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 180,
+                "date": "2022-01-02T21:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 64,
+                "cod_tend": "4",
+                "tend": 0.0,
+                "latitude": 45.786833,
+                "nnuage1": 4.0,
+                "tminsolc": 6.400000000000034,
+                "hbas": 1250.0,
+                "rafper": 8.5,
+                "hnuage2": 7200.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102670,
+                "code_epci": "246300701",
+                "hnuage1": 1260.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "nnuage2": 4.0,
+                "rr24": 0.0,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 3.6,
+                "tend24": 160.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "Stationnaire, la pression atmosph\u00e9rique est la m\u00eame que trois heures auparavant",
+                "nbas": "4",
+                "pres": 98720.0,
+                "vv": 60000.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "a353f0282b4df74c3f09becd9354984702c22c2e",
+            "fields": {
+                "code_dep": "63",
+                "t": 285.85,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 6.6,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": 0.0,
+                "rr6": 0.0,
+                "tc": 12.700000000000045,
+                "tminsol": 278.15,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "td": 279.25,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 210,
+                "date": "2022-01-02T18:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 64,
+                "cod_tend": "2",
+                "tend": 260.0,
+                "latitude": 45.786833,
+                "nnuage1": 1.0,
+                "tminsolc": 5.0,
+                "hbas": 6720.0,
+                "rafper": 9.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102670,
+                "code_epci": "246300701",
+                "hnuage1": 6720.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "tn12c": 6.800000000000011,
+                "tx12": 292.15,
+                "rr24": 0.0,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 4.1,
+                "tend24": 170.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "En hausse",
+                "nbas": "1",
+                "tn12": 279.95,
+                "pres": 98720.0,
+                "tx12c": 19.0,
+                "vv": 60000.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        },
+        {
+            "datasetid": "donnees-synop-essentielles-omm",
+            "recordid": "5e787a5bd540664bb8fd7214b3d471a1b33c21e2",
+            "fields": {
+                "code_dep": "63",
+                "t": 291.15,
+                "ww": "0",
+                "ht_neige": 0.0,
+                "numer_sta": "07460",
+                "raf10": 9.3,
+                "code_reg": "84",
+                "rr3": 0.0,
+                "coordonnees": [
+                    45.786833,
+                    3.149333
+                ],
+                "rr12": 0.0,
+                "rr6": 0.0,
+                "tc": 18.0,
+                "tminsol": 277.05,
+                "per": -10.0,
+                "nom_dept": "Puy-de-D\u00f4me",
+                "td": 276.95,
+                "temps_present": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                "altitude": 331,
+                "dd": 260,
+                "date": "2022-01-02T15:00:00+00:00",
+                "rr1": 0.0,
+                "nom": "CLERMONT-FD",
+                "u": 39,
+                "cod_tend": "5",
+                "tend": -20.0,
+                "latitude": 45.786833,
+                "nnuage1": 4.0,
+                "tminsolc": 3.900000000000034,
+                "hbas": 2940.0,
+                "rafper": 10.6,
+                "hnuage2": 7140.0,
+                "libgeo": "Clermont-Ferrand",
+                "pmer": 102330,
+                "code_epci": "246300701",
+                "hnuage1": 2940.0,
+                "codegeo": "63113",
+                "etat_sol": "0",
+                "nnuage2": 5.0,
+                "rr24": 0.0,
+                "nom_reg": "Auvergne-Rh\u00f4ne-Alpes",
+                "mois_de_l_annee": 1,
+                "longitude": 3.149333,
+                "ff": 6.0,
+                "tend24": -120.0,
+                "nom_epci": "Clermont Auvergne M\u00e9tropole",
+                "type_de_tendance_barometrique": "En baisse, puis en hausse, la pression atmosph\u00e9rique est la m\u00eame ou plus basse que trois heures auparavant",
+                "nbas": "5",
+                "pres": 98460.0,
+                "vv": 35440.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149333,
+                    45.786833
+                ]
+            },
+            "record_timestamp": "2022-01-03T20:00:00+00:00"
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "date",
+            "facets": [
+                {
+                    "name": "2010",
+                    "count": 2918,
+                    "state": "displayed",
+                    "path": "2010"
+                },
+                {
+                    "name": "2011",
+                    "count": 2917,
+                    "state": "displayed",
+                    "path": "2011"
+                },
+                {
+                    "name": "2012",
+                    "count": 2920,
+                    "state": "displayed",
+                    "path": "2012"
+                },
+                {
+                    "name": "2013",
+                    "count": 2891,
+                    "state": "displayed",
+                    "path": "2013"
+                },
+                {
+                    "name": "2014",
+                    "count": 2912,
+                    "state": "displayed",
+                    "path": "2014"
+                },
+                {
+                    "name": "2015",
+                    "count": 2910,
+                    "state": "displayed",
+                    "path": "2015"
+                },
+                {
+                    "name": "2016",
+                    "count": 2913,
+                    "state": "displayed",
+                    "path": "2016"
+                },
+                {
+                    "name": "2017",
+                    "count": 2881,
+                    "state": "displayed",
+                    "path": "2017"
+                },
+                {
+                    "name": "2018",
+                    "count": 2842,
+                    "state": "displayed",
+                    "path": "2018"
+                },
+                {
+                    "name": "2019",
+                    "count": 2848,
+                    "state": "displayed",
+                    "path": "2019"
+                },
+                {
+                    "name": "2020",
+                    "count": 2882,
+                    "state": "displayed",
+                    "path": "2020"
+                },
+                {
+                    "name": "2021",
+                    "count": 2865,
+                    "state": "displayed",
+                    "path": "2021"
+                },
+                {
+                    "name": "2022",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "2022"
+                }
+            ]
+        },
+        {
+            "name": "nom",
+            "facets": [
+                {
+                    "name": "CLERMONT-FD",
+                    "count": 34722,
+                    "state": "refined",
+                    "path": "CLERMONT-FD"
+                }
+            ]
+        },
+        {
+            "name": "temps_present",
+            "facets": [
+                {
+                    "name": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution",
+                    "count": 17219,
+                    "state": "displayed",
+                    "path": "On n\u2019a pas observ\u00e9 d\u2019\u00e9volution des nuages ou on n\u2019a pas pu suivre cette \u00e9volution"
+                },
+                {
+                    "name": "\u00c9tat du ciel inchang\u00e9 dans l\u2019ensemble",
+                    "count": 8481,
+                    "state": "displayed",
+                    "path": "\u00c9tat du ciel inchang\u00e9 dans l\u2019ensemble"
+                },
+                {
+                    "name": "Dans l\u2019ensemble, nuages se dissipant ou devenant moins \u00e9pais",
+                    "count": 1335,
+                    "state": "displayed",
+                    "path": "Dans l\u2019ensemble, nuages se dissipant ou devenant moins \u00e9pais"
+                },
+                {
+                    "name": "Nuages en formation ou en train de se d\u00e9velopper",
+                    "count": 1263,
+                    "state": "displayed",
+                    "path": "Nuages en formation ou en train de se d\u00e9velopper"
+                },
+                {
+                    "name": "Pluie, sans cong\u00e9lation, continue, faible au moment de l\u2019observation",
+                    "count": 912,
+                    "state": "displayed",
+                    "path": "Pluie, sans cong\u00e9lation, continue, faible au moment de l\u2019observation"
+                },
+                {
+                    "name": "Pluie, sans cong\u00e9lation, intermittente, faible au moment de l\u2019observation",
+                    "count": 591,
+                    "state": "displayed",
+                    "path": "Pluie, sans cong\u00e9lation, intermittente, faible au moment de l\u2019observation"
+                },
+                {
+                    "name": "Brume",
+                    "count": 590,
+                    "state": "displayed",
+                    "path": "Brume"
+                },
+                {
+                    "name": "Pluie (ne se congelant pas)",
+                    "count": 317,
+                    "state": "displayed",
+                    "path": "Pluie (ne se congelant pas)"
+                },
+                {
+                    "name": "Pr\u00e9cipitations en vue, atteignant le sol ou la surface de la mer, mais distantes (c\u2019est-\u00e0-dire \u00e0 plus de 5 km \u00e0 l\u2019estime) de la station",
+                    "count": 209,
+                    "state": "displayed",
+                    "path": "Pr\u00e9cipitations en vue, atteignant le sol ou la surface de la mer, mais distantes (c\u2019est-\u00e0-dire \u00e0 plus de 5 km \u00e0 l\u2019estime) de la station"
+                },
+                {
+                    "name": "Averse(s) de pluie",
+                    "count": 187,
+                    "state": "displayed",
+                    "path": "Averse(s) de pluie"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9, ciel invisible, sans changement appr\u00e9ciable au cours de l\u2019heure pr\u00e9c\u00e9dente",
+                    "count": 137,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9, ciel invisible, sans changement appr\u00e9ciable au cours de l\u2019heure pr\u00e9c\u00e9dente"
+                },
+                {
+                    "name": "Pluie, sans cong\u00e9lation, continue, mod\u00e9r\u00e9e au moment de l\u2019observation",
+                    "count": 100,
+                    "state": "displayed",
+                    "path": "Pluie, sans cong\u00e9lation, continue, mod\u00e9r\u00e9e au moment de l\u2019observation"
+                },
+                {
+                    "name": "Brouillard, d\u00e9posant du givre, ciel invisible",
+                    "count": 98,
+                    "state": "displayed",
+                    "path": "Brouillard, d\u00e9posant du givre, ciel invisible"
+                },
+                {
+                    "name": "Chute intermittente de flocons de neige, faible au moment de l\u2019observation",
+                    "count": 91,
+                    "state": "displayed",
+                    "path": "Chute intermittente de flocons de neige, faible au moment de l\u2019observation"
+                },
+                {
+                    "name": "Averse(s) de pluie, faible(s)",
+                    "count": 87,
+                    "state": "displayed",
+                    "path": "Averse(s) de pluie, faible(s)"
+                },
+                {
+                    "name": "Bruine, sans cong\u00e9lation, intermittente, faible au moment de l\u2019observation",
+                    "count": 77,
+                    "state": "displayed",
+                    "path": "Bruine, sans cong\u00e9lation, intermittente, faible au moment de l\u2019observation"
+                },
+                {
+                    "name": "Chute continue de flocons de neige, faible au moment de l\u2019observation",
+                    "count": 72,
+                    "state": "displayed",
+                    "path": "Chute continue de flocons de neige, faible au moment de l\u2019observation"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9, ciel visible, sans changement appr\u00e9ciable au cours de l\u2019heure pr\u00e9c\u00e9dente",
+                    "count": 70,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9, ciel visible, sans changement appr\u00e9ciable au cours de l\u2019heure pr\u00e9c\u00e9dente"
+                },
+                {
+                    "name": "Bruine, sans cong\u00e9lation, continue, faible au moment de l\u2019observation",
+                    "count": 60,
+                    "state": "displayed",
+                    "path": "Bruine, sans cong\u00e9lation, continue, faible au moment de l\u2019observation"
+                },
+                {
+                    "name": "Mince couche de brouillard ou de brouillard glac\u00e9 \u00e0 la station, qu\u2019il s\u2019agisse d\u2019une station terrestre ou d\u2019une station en mer, d\u2019une \u00e9paisseur n\u2019exc\u00e9dant pas 2 m\u00e8tres sur terre ou 10 m\u00e8tres en mer",
+                    "count": 57,
+                    "state": "displayed",
+                    "path": "Mince couche de brouillard ou de brouillard glac\u00e9 \u00e0 la station, qu\u2019il s\u2019agisse d\u2019une station terrestre ou d\u2019une station en mer, d\u2019une \u00e9paisseur n\u2019exc\u00e9dant pas 2 m\u00e8tres sur terre ou 10 m\u00e8tres en mer"
+                },
+                {
+                    "name": "Orage faible ou mod\u00e9r\u00e9, sans gr\u00eale*, mais avec pluie ou neige ou pluie et neige m\u00eal\u00e9es au moment de l\u2019observation",
+                    "count": 53,
+                    "state": "displayed",
+                    "path": "Orage faible ou mod\u00e9r\u00e9, sans gr\u00eale*, mais avec pluie ou neige ou pluie et neige m\u00eal\u00e9es au moment de l\u2019observation"
+                },
+                {
+                    "name": "Bruine et pluie, faibles",
+                    "count": 48,
+                    "state": "displayed",
+                    "path": "Bruine et pluie, faibles"
+                },
+                {
+                    "name": "Neige",
+                    "count": 47,
+                    "state": "displayed",
+                    "path": "Neige"
+                },
+                {
+                    "name": "Orage, mais pas de pr\u00e9cipitations au moment de l\u2019observation",
+                    "count": 43,
+                    "state": "displayed",
+                    "path": "Orage, mais pas de pr\u00e9cipitations au moment de l\u2019observation"
+                },
+                {
+                    "name": "Orage (avec ou sans pr\u00e9cipitations)",
+                    "count": 42,
+                    "state": "displayed",
+                    "path": "Orage (avec ou sans pr\u00e9cipitations)"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9 en bancs",
+                    "count": 33,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9 en bancs"
+                },
+                {
+                    "name": "Brouillard, d\u00e9posant du givre, ciel visible",
+                    "count": 29,
+                    "state": "displayed",
+                    "path": "Brouillard, d\u00e9posant du givre, ciel visible"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9 \u00e0 distance au moment de",
+                    "count": 25,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9 \u00e0 distance au moment de"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9",
+                    "count": 23,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9"
+                },
+                {
+                    "name": "Pluie, sans cong\u00e9lation, continue, forte au moment de l\u2019observation",
+                    "count": 19,
+                    "state": "displayed",
+                    "path": "Pluie, sans cong\u00e9lation, continue, forte au moment de l\u2019observation"
+                },
+                {
+                    "name": "Bruine (ne se congelant pas) ou neige en grains",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "Bruine (ne se congelant pas) ou neige en grains"
+                },
+                {
+                    "name": "Pluie (ou bruine) et neige, faibles",
+                    "count": 17,
+                    "state": "displayed",
+                    "path": "Pluie (ou bruine) et neige, faibles"
+                },
+                {
+                    "name": "Pr\u00e9cipitations en vue, n\u2019atteignant pas le sol ou la surface de la mer",
+                    "count": 17,
+                    "state": "displayed",
+                    "path": "Pr\u00e9cipitations en vue, n\u2019atteignant pas le sol ou la surface de la mer"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9, ciel invisible, a d\u00e9but\u00e9 ou est devenu plus \u00e9pais au cours del'heure pr\u00e9c\u00e9dente",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9, ciel invisible, a d\u00e9but\u00e9 ou est devenu plus \u00e9pais au cours del'heure pr\u00e9c\u00e9dente"
+                },
+                {
+                    "name": "Pluie faible au moment de l\u2019observation, Orage durant l\u2019heure pr\u00e9c\u00e9dente mais non au moment de l\u2019observation",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Pluie faible au moment de l\u2019observation, Orage durant l\u2019heure pr\u00e9c\u00e9dente mais non au moment de l\u2019observation"
+                },
+                {
+                    "name": "\u00c9clairs visibles, tonnerre non perceptible",
+                    "count": 15,
+                    "state": "displayed",
+                    "path": "\u00c9clairs visibles, tonnerre non perceptible"
+                },
+                {
+                    "name": "Averse(s) de pluie, mod\u00e9r\u00e9e(s) ou forte(s)",
+                    "count": 13,
+                    "state": "displayed",
+                    "path": "Averse(s) de pluie, mod\u00e9r\u00e9e(s) ou forte(s)"
+                },
+                {
+                    "name": "Pr\u00e9cipitations en vue, atteignant le sol ou la surface de la mer, pr\u00e8s de la station mais pas \u00e0 la station m\u00eame",
+                    "count": 11,
+                    "state": "displayed",
+                    "path": "Pr\u00e9cipitations en vue, atteignant le sol ou la surface de la mer, pr\u00e8s de la station mais pas \u00e0 la station m\u00eame"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9, ciel visible, a d\u00e9but\u00e9 ou est devenu plus \u00e9pais au cours del'heure pr\u00e9c\u00e9dente",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9, ciel visible, a d\u00e9but\u00e9 ou est devenu plus \u00e9pais au cours del'heure pr\u00e9c\u00e9dente"
+                },
+                {
+                    "name": "Averse(s) de neige, ou de pluie et de neige",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Averse(s) de neige, ou de pluie et de neige"
+                },
+                {
+                    "name": "Chute continue de flocons de neige, mod\u00e9r\u00e9e au moment de l\u2019observation",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Chute continue de flocons de neige, mod\u00e9r\u00e9e au moment de l\u2019observation"
+                },
+                {
+                    "name": "Pluie et neige m\u00eal\u00e9es ou granules de glace",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Pluie et neige m\u00eal\u00e9es ou granules de glace"
+                },
+                {
+                    "name": "Bruine, sans cong\u00e9lation, intermittente, mod\u00e9r\u00e9e au moment de l\u2019observation",
+                    "count": 5,
+                    "state": "displayed",
+                    "path": "Bruine, sans cong\u00e9lation, intermittente, mod\u00e9r\u00e9e au moment de l\u2019observation"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9, ciel visible, s\u2019est aminci au cours de l\u2019heure pr\u00e9c\u00e9dente",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9, ciel visible, s\u2019est aminci au cours de l\u2019heure pr\u00e9c\u00e9dente"
+                },
+                {
+                    "name": "Bruine, sans cong\u00e9lation, continue, mod\u00e9r\u00e9e au moment de l\u2019observation",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Bruine, sans cong\u00e9lation, continue, mod\u00e9r\u00e9e au moment de l\u2019observation"
+                },
+                {
+                    "name": "Averse(s) de neige, faible(s)",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Averse(s) de neige, faible(s)"
+                },
+                {
+                    "name": "Brouillard ou brouillard glac\u00e9, ciel invisible, s\u2019est aminci au cours de l\u2019heure pr\u00e9c\u00e9dente",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Brouillard ou brouillard glac\u00e9, ciel invisible, s\u2019est aminci au cours de l\u2019heure pr\u00e9c\u00e9dente"
+                },
+                {
+                    "name": "Bruine, se congelant, faible",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Bruine, se congelant, faible"
+                },
+                {
+                    "name": "Pluie mod\u00e9r\u00e9e ou forte au moment de l\u2019observation, Orage durant l\u2019heure pr\u00e9c\u00e9dente mais non au moment de l\u2019observation",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Pluie mod\u00e9r\u00e9e ou forte au moment de l\u2019observation, Orage durant l\u2019heure pr\u00e9c\u00e9dente mais non au moment de l\u2019observation"
+                },
+                {
+                    "name": "Pluie, se congelant, faible",
+                    "count": 3,
+                    "state": "displayed",
+                    "path": "Pluie, se congelant, faible"
+                },
+                {
+                    "name": "Pluie, sans cong\u00e9lation, intermittente, mod\u00e9r\u00e9e au moment de l\u2019observation",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Pluie, sans cong\u00e9lation, intermittente, mod\u00e9r\u00e9e au moment de l\u2019observation"
+                },
+                {
+                    "name": "Averse(s) de gr\u00eale*, ou de pluie et de gr\u00eale*",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Averse(s) de gr\u00eale*, ou de pluie et de gr\u00eale*"
+                },
+                {
+                    "name": "Averse(s) de neige, mod\u00e9r\u00e9e(s) ou forte(s)",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Averse(s) de neige, mod\u00e9r\u00e9e(s) ou forte(s)"
+                },
+                {
+                    "name": "Averse(s) de pluie et neige m\u00eal\u00e9es, faible(s)",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Averse(s) de pluie et neige m\u00eal\u00e9es, faible(s)"
+                },
+                {
+                    "name": "Chute intermittente de flocons de neige, mod\u00e9r\u00e9e au moment de l\u2019observation",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Chute intermittente de flocons de neige, mod\u00e9r\u00e9e au moment de l\u2019observation"
+                },
+                {
+                    "name": "Neige en grains (avec ou sans brouillard)",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Neige en grains (avec ou sans brouillard)"
+                },
+                {
+                    "name": "Pluie (ou bruine) et neige, mod\u00e9r\u00e9es ou fortes",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Pluie (ou bruine) et neige, mod\u00e9r\u00e9es ou fortes"
+                },
+                {
+                    "name": "Poudrin de glace (avec ou sans brouillard)",
+                    "count": 1,
+                    "state": "displayed",
+                    "path": "Poudrin de glace (avec ou sans brouillard)"
+                }
+            ]
+        },
+        {
+            "name": "libgeo",
+            "facets": [
+                {
+                    "name": "Clermont-Ferrand",
+                    "count": 34722,
+                    "state": "displayed",
+                    "path": "Clermont-Ferrand"
+                }
+            ]
+        },
+        {
+            "name": "nom_epci",
+            "facets": [
+                {
+                    "name": "Clermont Auvergne M\u00e9tropole",
+                    "count": 34722,
+                    "state": "displayed",
+                    "path": "Clermont Auvergne M\u00e9tropole"
+                }
+            ]
+        },
+        {
+            "name": "nom_dept",
+            "facets": [
+                {
+                    "name": "Puy-de-D\u00f4me",
+                    "count": 34722,
+                    "state": "displayed",
+                    "path": "Puy-de-D\u00f4me"
+                }
+            ]
+        },
+        {
+            "name": "nom_reg",
+            "facets": [
+                {
+                    "name": "Auvergne-Rh\u00f4ne-Alpes",
+                    "count": 34722,
+                    "state": "displayed",
+                    "path": "Auvergne-Rh\u00f4ne-Alpes"
+                }
+            ]
+        }
+    ]
+}
